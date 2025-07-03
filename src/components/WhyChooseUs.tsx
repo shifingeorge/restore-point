@@ -115,7 +115,7 @@ const WhyChooseUs = () => {
               {/* Main Image */}
               <div className="rounded-2xl overflow-hidden shadow-2xl ">
                 <img
-                  src={'images/whychooseus.png'}
+                  src={'/images/whychooseus.png'}
                   alt="Laptop keyboard with colorful lighting effects"
                   className="w-full h-full object-cover"
                 />

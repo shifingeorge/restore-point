@@ -26,7 +26,7 @@ const Footer = () => {
             {/* Left Column - Logo & Description */}
             <div className="lg:max-w-sm">
               <div className="flex items-center space-x-2 mb-6 cursor-pointer" onClick={() => scrollToSection('home')}>
-                <img src="images/logo.png" alt="Restore Point Logo" className="h-8 sm:h-10 object-contain" />
+                <img src="/images/logo.png" alt="Restore Point Logo" className="h-8 sm:h-10 object-contain" />
               </div>
               <p className="text-gray-400 leading-relaxed">
                 Your trusted partner for professional device repair services in Kochi.

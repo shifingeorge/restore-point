@@ -14,7 +14,7 @@ const Hero = () => {
       {/* Background Pattern with Gradient Overlay */}
       <div className="absolute inset-0 z-0">
         {/* Background Image */}
-        <div className="absolute top-0 left-0 w-full h-full bg-[url('images/cover.avif')] bg-cover bg-center"></div>
+        <div className="absolute top-0 left-0 w-full h-full bg-[url('/images/cover.avif')] bg-cover bg-center"></div>
         
         {/* Black Gradient Overlay */}
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/70"></div>

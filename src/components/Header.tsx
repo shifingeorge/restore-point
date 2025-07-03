@@ -34,7 +34,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2 cursor-pointer" onClick={() => scrollToSection('home')}>
             
-            <img src="images/logo.png" alt="Restore Point Logo" className="h-8 sm:h-10 object-contain"
+            <img src="/images/logo.png" alt="Restore Point Logo" className="h-8 sm:h-10 object-contain"
 />
           </div>
 
