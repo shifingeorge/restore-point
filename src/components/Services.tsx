@@ -62,7 +62,7 @@ const Services = () => {
 
                   {/* Title and Description */}
                   <h3 className="absolute bottom-20 text-4xl font-bold mb-2">{service.title}</h3>
-                  <p className=" absolute bottom-9 pr-2 text-2xl">{service.description}</p>
+                  <p className=" absolute bottom-9 pr-2 lg:text-2xl sm:text-sm xs:text-sm">{service.description}</p>
                 </div>
               </div>
             );
