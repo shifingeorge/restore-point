@@ -87,7 +87,7 @@ const Footer = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <div className="text-center">
               <p className="text-gray-400 text-sm">
-                © 2025 Nainas World Digital Marketing Agency. All rights reserved.
+                © 2025 All rights reserved | Designed By Nainas Digital Advertising Group
               </p>
             </div>
           </div>
