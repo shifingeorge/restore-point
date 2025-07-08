@@ -3,6 +3,13 @@ import { useRef,useEffect } from 'react';
 //import { Award } from 'lucide-react';
 
 const About = () => {
+  const scrollToContact = () => {
+    const element = document.getElementById('contact');
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth' });
+      }
+      };
+
   const sectionRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -42,10 +49,12 @@ const About = () => {
               With over 10 years of experience, we've helped thousands of customers in Kochi with their device repair needs. Our certified technicians provide fast, reliable service with genuine parts and warranty.
             </h2>
             
-            <button className="group bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 flex items-center space-x-2 shadow-lg hover:shadow-xl">
+            <button
+            onClick={scrollToContact}
+            className="group bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 flex items-center space-x-2 shadow-lg hover:shadow-xl">
               <span>Get Fixed</span>
               <div className="w-8 h-8 bg-white/20 rounded-full flex items-center justify-center group-hover:rotate-45 transition-transform duration-300">
-                <div className="w-4 h-4 bg-white rounded-full"></div>
+              <div className="w-4 h-4 bg-white rounded-full"></div>
               </div>
             </button>
           </div>

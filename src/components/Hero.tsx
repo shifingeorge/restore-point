@@ -2,8 +2,8 @@
 import { ArrowRight } from 'lucide-react';
 
 const Hero = () => {
-  const scrollToServices = () => {
-    const element = document.getElementById('services');
+  const scrollToContact = () => {
+    const element = document.getElementById('contact');
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
     }
@@ -41,7 +41,7 @@ const Hero = () => {
 
             <div className="flex justify-start">
               <button 
-                onClick={scrollToServices}
+                onClick={scrollToContact}
                 className="group bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 flex items-center space-x-2 shadow-lg hover:shadow-xl transform hover:scale-105"
               >
                 <span>Get Started</span>
