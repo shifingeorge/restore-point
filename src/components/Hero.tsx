@@ -25,17 +25,17 @@ const Hero = () => {
         <div className="flex items-center min-h-[80vh]">
           <div className="text-left">
             <h1 className="font-grotesk text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-6">
-              Your Trusted
+              Best laptop
               <br />
               <span className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-6">
-                Tech Repair Experts
-              </span>
+                service centre
+              </span> 
               <br />
-              in Kochi
+              in Kakkanad
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-300 mb-8 max-w-2xl">
-              From Cracked Screens to Lost Data, We’ve Got You Covered   Comprehensive Device Repair & Recovery Services in Kakkanad.
+              From Cracked Screens to Lost Data, We’ve Got You Covered – Comprehensive Device Repair & Recovery Services in Kakkanad.
             </p>
 
             <div className="flex justify-start">

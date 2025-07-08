@@ -70,15 +70,15 @@ const WhyChooseUs = () => {
             className="opacity-0 translate-x-8"
           >
             <span className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4 block">
-              Why Restore Point?
+              Why Choose Restore Point?
             </span>
             
             <h2 className="text-4xl lg:text-5xl font-bold text-white mb-8 leading-tight">
-              Your Privacy is our priority
+              Because we are the best laptop service centre in Kakkanad.
             </h2>
             
             <p className="text-xl text-gray-300 mb-12 leading-relaxed">
-              At Restore Point, your privacy and data security are our top priorities. That’s why we take every measure to protect your privacy while delivering expert repairs.
+              Your Privacy Is Our Priority. Your Trust Is Our Commitment. At Restore Point, your privacy and data security are our top priorities. That’s why we take every measure to protect your privacy while delivering expert repairs.
             </p>
 
             {/* Features List */}
