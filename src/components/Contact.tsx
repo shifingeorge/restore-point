@@ -18,7 +18,7 @@ const Contact = () => {
     {
       icon: Clock,
       title: 'Business Hours',
-      details: ['Mon - Sat: 9:00 AM - 8:00 PM', 'Sunday: 10:00 AM - 6:00 PM'],
+      details: ['Mon - Sun: 9:00 AM - 10:00 PM'],
       color: 'from-purple-500 to-purple-600'
     }
   ];
