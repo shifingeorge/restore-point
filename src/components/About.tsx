@@ -45,8 +45,8 @@ const About = () => {
         >
           {/* Left Content /*text-lg text-gray-600 mb-6*/}
           <div>
-            <h2 className="text-4xl lg:text-6xl text-gray-900 leading-tight mb-6">
-              With over 10 years of experience, we've helped thousands of customers in Kochi with their device repair needs. Our certified technicians provide fast, reliable service with genuine parts and warranty.
+            <h2 className="text-4xl lg:text-5xl text-gray-900 leading-tight mb-6">
+              With over 10 years of industry experience, we have proudly served thousands of customers in Kochi with their device repair needs.Our certified technicians are committed to delivering fast, dependable service using genuine parts, all backed by a warranty for quality assurance.
             </h2>
             
             <button

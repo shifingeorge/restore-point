@@ -32,7 +32,7 @@ const Contact = () => {
             Get In Touch
           </h2>
           <p className="text-left text-xl text-gray-600 max-w-3xl">
-            Ready to get your device fixed? Contact us today. We're here to help restore your technology.
+            Ready to restore your device? Reach out to us today — our team is here to provide reliable support and expert repair solutions.
           </p>
         </div>
 

@@ -27,28 +27,28 @@ const WhyChooseUs = () => {
     {
       number: '01',
       title: 'Privacy-Focused Protection',
-      description: 'Ensures your data remains secure while restoring laptops with privacy protection',
+      description: 'We prioritize privacy-focused protection, ensuring your data remains secure throughout the laptop restoration process.',
       //icon: Shield,
       color: 'from-blue-500 to-blue-600'
     },
     {
       number: '02',
       title: 'Quick Turnaround Time',
-      description: 'Most repairs completed within 24-48 hours with express service available',
+      description: 'We offer quick turnaround times, with most repairs completed within 24–48 hours and express service available on request.',
       //icon: Clock,
       color: 'from-green-500 to-green-600'
     },
     {
       number: '03',
       title: 'Expert Certification',
-      description: 'All technicians are certified professionals with extensive training',
+      description: 'All our technicians are certified professionals with extensive training and hands-on expertise.',
       //icon: Award,
       color: 'from-orange-500 to-orange-600'
     },
     {
       number: '04',
       title: '24/7 Customer Support',
-      description: 'Round-the-clock support for all your device repair queries and concerns',
+      description: 'We offer round-the-clock support to assist you with any device repair queries or concerns at any time.',
       //icon: HeadphonesIcon,
       color: 'from-purple-500 to-purple-600'
     }
@@ -78,8 +78,7 @@ const WhyChooseUs = () => {
             </h2>
             
             <p className="text-xl text-gray-300 mb-12 leading-relaxed">
-              A restore point ensures your device can revert to a stable state, 
-              safeguarding your data and settings from unexpected issues.
+              At Restore Point, your privacy and data security are our top priorities. That’s why we take every measure to protect your privacy while delivering expert repairs.
             </p>
 
             {/* Features List */}

@@ -25,18 +25,17 @@ const Hero = () => {
         <div className="flex items-center min-h-[80vh]">
           <div className="text-left">
             <h1 className="font-grotesk text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-6">
-              Expert Device
+              Your Trusted
               <br />
               <span className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-6">
-                Repair Services
+                Tech Repair Experts
               </span>
               <br />
               in Kochi
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-300 mb-8 max-w-2xl">
-              Professional repair services for laptops, smartphones, and tablets. 
-              Fast, reliable, and trusted by thousands in Kakkanad.
+              From Cracked Screens to Lost Data, We’ve Got You Covered   Comprehensive Device Repair & Recovery Services in Kakkanad.
             </p>
 
             <div className="flex justify-start">
@@ -52,12 +51,7 @@ const Hero = () => {
         </div>
       </div>
 
-      {/* Scroll Indicator */}
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce z-10">
-        <div className="w-6 h-10 border-2 border-gray-400 rounded-full flex justify-center">
-          <div className="w-1 h-3 bg-gray-400 rounded-full mt-2 animate-pulse"></div>
-        </div>
-      </div>
+      
     </section>
   );
 };
