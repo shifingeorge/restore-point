@@ -89,7 +89,7 @@ const Footer = () => {
               <p className="text-gray-400 text-sm">
                 © 2025 All rights reserved | Designed By{' '}
                 <a 
-                href="https://www.google.com/search?q=nainasworld&sourceid=chrome&ie=UTF-8" 
+                href="https://www.marketingwithnaina.com/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-[#f89535] hover:text-[#e67c1f] transition-colors duration-300"
