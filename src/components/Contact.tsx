@@ -32,7 +32,7 @@ const Contact = () => {
             Get In Touch
           </h2>
           <p className="text-left text-xl text-gray-600 max-w-3xl">
-            Ready to restore your device? We are the best laptop service center in Kakkanad. Reach out to us today — our team is here to provide reliable support and expert repair solutions.
+            Ready to restore your device? We are the best laptop service  in Kakkanad. Reach out to us today — our team is here to provide reliable support and expert repair solutions.
           </p>
         </div>
 
