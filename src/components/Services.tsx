@@ -35,7 +35,7 @@ const Services = () => {
         <div className="sticky top-40 self-start h-fit">
           <h2 className="font-grotesk text-2xl font-bold text-black leading-tight mb-6 ">Our Services</h2>
           <p className="text-2xl text-gray-600 mb-6">
-            Being the best laptop service centre in Kakkanad, at Restore Point, we offer comprehensive repair and support services for laptops, mobile devices, tablets, and data recovery.
+            Being the best laptop service in Kakkanad, at Restore Point, we offer comprehensive repair and support services for laptops, mobile devices, tablets, and data recovery.
           </p>
           <p className="text-2xl text-gray-600 mb-6">
             Whether you're facing hardware malfunctions, software issues, or critical data loss, our experienced technicians are equipped to deliver fast, reliable, and secure solutions. We’re committed to restoring your devices to peak performance with expert care and genuine components.
