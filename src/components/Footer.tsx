@@ -29,7 +29,7 @@ const Footer = () => {
                 <img src="/images/logo.png" alt="Restore Point Logo" className="h-8 sm:h-10 object-contain" />
               </div>
               <p className="text-gray-400 leading-relaxed">
-                Best laptop service centre in kakkanad – Expert Solutions for Mobiles, Laptops, Tablets, and Complete Data Recovery with Genuine Parts and Guaranteed Service.
+                Best laptop service  in kakkanad – Expert Solutions for Mobiles, Laptops, Tablets, and Complete Data Recovery with Genuine Parts and Guaranteed Service.
               </p>
             </div>
 
