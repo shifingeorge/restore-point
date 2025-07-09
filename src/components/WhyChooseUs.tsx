@@ -74,7 +74,7 @@ const WhyChooseUs = () => {
             </span>
             
             <h2 className="text-4xl lg:text-5xl font-bold text-white mb-8 leading-tight">
-              Because we are the best laptop service centre in Kakkanad.
+              Because we are the best laptop service in Kakkanad.
             </h2>
             
             <p className="text-xl text-gray-300 mb-12 leading-relaxed">
