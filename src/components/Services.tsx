@@ -35,7 +35,7 @@ const Services = () => {
         </div>
 
         {/* Right Column: Sticky Stack Scroll */}
-        <div className="relative h-[180vh]">
+        <div className="relative h-[300vh]">
           {services.map((service, index) => (
             <div
               key={service.id}
