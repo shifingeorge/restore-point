@@ -28,7 +28,7 @@ const Hero = () => {
               Best laptop
               <br />
               <span className="text-4xl sm:text-5xl lg:text-7xl font-bold text-white leading-tight mb-6">
-                service centre
+                service
               </span> 
               <br />
               in Kakkanad
