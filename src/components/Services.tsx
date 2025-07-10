@@ -41,7 +41,7 @@ const Services = () => {
               key={service.id}
               className="sticky top-40 transition-transform duration-500"
               style={{
-                zIndex: services.length +1,
+                zIndex: length +1,
                 marginTop: `${index * 100}px`,
               }}
             >
