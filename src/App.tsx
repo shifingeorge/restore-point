@@ -13,7 +13,7 @@ function App() {
       <Header />
       <Hero />
       <Services />
-      <img src={"/images/repair cover.png"} alt="Full width banner" className="w-full h-[613px] object-cover"/>
+      <img src={"/images/repair cover.png"} alt="Full width banner" className="w-full h-[613px] object-cover mt-20"/>
       <About />
       <WhyChooseUs />
       <Contact />
