@@ -6,7 +6,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Call Us',
-      details: ['+91 98765 43210'],
+      details: ['+917025550110'],
       color: 'from-green-500 to-green-600'
     },
     {
