@@ -1,5 +1,5 @@
 // import React from 'react';
-import { MapPin, Phone, Mail } from 'lucide-react';
+import { MapPin, Phone, Mail, Facebook } from 'lucide-react';
 
 const Footer = () => {
   const scrollToSection = (sectionId: string) => {
@@ -29,7 +29,7 @@ const Footer = () => {
                 <img src="/images/logo.png" alt="Restore Point Logo" className="h-8 sm:h-10 object-contain" />
               </div>
               <p className="text-gray-400 leading-relaxed">
-                Best laptop service  in kakkanad – Expert Solutions for Mobiles, Laptops, Tablets, and Complete Data Recovery with Genuine Parts and Guaranteed Service.
+                Best laptop service in kakkanad – Expert Solutions for Mobiles, Laptops, Tablets, and Complete Data Recovery with Genuine Parts and Guaranteed Service.
               </p>
             </div>
 
@@ -85,19 +85,31 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-            <div className="text-center">
-              <p className="text-gray-400 text-sm">
+            <div className="flex flex-col items-center justify-between sm:flex-row sm:items-center">
+              <p className="text-gray-400 text-sm text-center sm:text-left">
                 © 2025 All rights reserved | Designed By{' '}
-                <a 
-                href="https://www.marketingwithnaina.com/" 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                className="text-[#f89535] hover:text-[#e67c1f] transition-colors duration-300"
+                <a
+                  href="https://www.marketingwithnaina.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#f89535] hover:text-[#e67c1f] transition-colors duration-300"
                 >
                   Nainas Digital Advertising Group
                 </a>
               </p>
 
+              {/* Facebook Icon */}
+              <div className="mt-4 sm:mt-0">
+                <a
+                  href="https://www.facebook.com/Restorepoint4u/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-white transition-colors duration-300"
+                  aria-label="Facebook"
+                >
+                  <Facebook className="h-5 w-5" />
+                </a>
+              </div>
             </div>
           </div>
         </div>
