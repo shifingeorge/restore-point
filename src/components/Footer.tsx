@@ -97,19 +97,6 @@ const Footer = () => {
                   Nainas Digital Advertising Group
                 </a>
               </p>
-
-              {/* Facebook Icon */}
-              <div className="mt-4 sm:mt-0">
-                <a
-                  href="https://www.facebook.com/Restorepoint4u/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-white transition-colors duration-300"
-                  aria-label="Facebook"
-                >
-                  <Facebook className="h-5 w-5" />
-                </a>
-              </div>
             </div>
           </div>
         </div>
