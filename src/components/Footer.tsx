@@ -86,7 +86,7 @@ const Footer = () => {
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-white transition-colors duration-200"
                       >
-                        facebook.com/Restorepoint4u
+                        Restorepoint4u
                       </a>
                     </div>
                   </div>
