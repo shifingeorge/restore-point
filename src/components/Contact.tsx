@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['info@restorepoint.com'],
+      details: ['rpointkochi@gmail.com'],
       color: 'from-orange-500 to-orange-600'
     },
     {
